@@ -1,0 +1,11 @@
+{
+  "name": "pm2-logcenter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:uniibu/pm2-logcenter.git",
+  "author": "unibtc <unibtc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
